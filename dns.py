@@ -1,5 +1,5 @@
 '''
-Program that takes in user input of a domain name and utilizes 'dig' similar to terminal command, which prints out data from CNAME to A
+Program that takes in user input of a domain name and utilizes 'dig' similar to terminal command, which prints out a query from CNAME to A
 
 source: http://www.dnspython.org/examples.html
 https://stackoverflow.com/questions/5235569/using-the-dig-command-in-python
